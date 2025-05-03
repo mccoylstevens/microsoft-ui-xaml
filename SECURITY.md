@@ -1,4 +1,4 @@
-<!-- BEGIN MICROSOFT SECURITY.MD V0.0.5 BLOCK -->
+<!-- BEGIN MICROSOFT SECURITY.MD v0.0.5 BLOCK --> version 1.5
 
 ## Security
 
